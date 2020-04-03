@@ -1,4 +1,4 @@
-# Presto Chart
+# Presto-Pulsar Chart
 
 [Presto](http://prestodb.io/) is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
 
